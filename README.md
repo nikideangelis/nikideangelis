@@ -1,8 +1,8 @@
 <h1> Olá 👋🏾, eu sou a Niki De Angelis</h1>
 
-<h3> Apaixonada pela área de dados e uma exploradora no mundo da tecnologia ✨ :)</h3>
-
 <img align="right" width="250" height="250" src="https://github.com/nikideangelis/nikideangelis/assets/143188995/0bab26fd-c414-47a7-8ff7-35ecc758b9c8" alt="girl-code" width="300" height="200">
+
+<h3> Apaixonada pela área de dados e uma exploradora no mundo da tecnologia ✨ :)</h3>
 
 "O sucesso é o acúmulo de pequenos esforços repetidos dia a dia" 
 
